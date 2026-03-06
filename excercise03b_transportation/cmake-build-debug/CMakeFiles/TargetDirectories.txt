@@ -1,0 +1,3 @@
+/Users/diana/Documents/github/c-programming-exercises/excercise03b_transportation/cmake-build-debug/CMakeFiles/excercise03b_transportation.dir
+/Users/diana/Documents/github/c-programming-exercises/excercise03b_transportation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/diana/Documents/github/c-programming-exercises/excercise03b_transportation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
