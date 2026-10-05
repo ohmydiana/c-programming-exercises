@@ -1,3 +1,0 @@
-/Users/diana/Documents/github/c-programming-exercises/excercise08_soldiers/cmake-build-debug/CMakeFiles/excercise08_soldiers.dir
-/Users/diana/Documents/github/c-programming-exercises/excercise08_soldiers/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/diana/Documents/github/c-programming-exercises/excercise08_soldiers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

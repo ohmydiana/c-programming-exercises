@@ -58,3 +58,6 @@ dkms.conf
 
 # JetBrains IDE (CLion) settings
 .idea/
+
+# CLion / CMake build output
+cmake-build-*/

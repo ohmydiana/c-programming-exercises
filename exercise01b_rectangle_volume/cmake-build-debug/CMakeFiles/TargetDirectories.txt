@@ -1,3 +1,0 @@
-/Users/diana/Documents/github/c-programming-exercises/excercise01b_rectangle_volume/cmake-build-debug/CMakeFiles/excercise01b_rectangle_volume.dir
-/Users/diana/Documents/github/c-programming-exercises/excercise01b_rectangle_volume/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/diana/Documents/github/c-programming-exercises/excercise01b_rectangle_volume/cmake-build-debug/CMakeFiles/rebuild_cache.dir

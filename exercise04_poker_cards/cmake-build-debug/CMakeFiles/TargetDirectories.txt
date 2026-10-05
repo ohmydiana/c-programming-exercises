@@ -1,3 +1,0 @@
-/Users/diana/Documents/github/c-programming-exercises/excercise04_poker_cards/cmake-build-debug/CMakeFiles/excercise04_poker_cards.dir
-/Users/diana/Documents/github/c-programming-exercises/excercise04_poker_cards/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/diana/Documents/github/c-programming-exercises/excercise04_poker_cards/cmake-build-debug/CMakeFiles/rebuild_cache.dir
